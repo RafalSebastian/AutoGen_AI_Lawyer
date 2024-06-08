@@ -3,4 +3,4 @@ This repository is suplementarny to Linkedin instruction HOW TO MAKE YOUR AI LAW
 
 Please forgive me if you find the layout of this repository a bit messy. I'm new to GitHub.
 
-I have performed several experiments using AutoGen and different Agnet setup and definistions.
+I have performed several experiments using AutoGen with different Agnet setup and definistions.
