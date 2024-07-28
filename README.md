@@ -36,4 +36,4 @@ We welcome contributions and feedback. Please feel free to submit issues or pull
 
 ## License
 
-[Insert your chosen license here]
+Apache License 2.0
