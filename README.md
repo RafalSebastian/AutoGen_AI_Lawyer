@@ -3,8 +3,6 @@ This repository is suplementarny to Linkedin instruction HOW TO MAKE YOUR AI LAW
 
 Please forgive me if you find the layout of this repository a bit messy. I'm new to GitHub. I have performed several experiments using AutoGen with different Agnet setup and definistions.
 
-# AI Legal Analysis Tool
-
 This project demonstrates an advanced AI system for comprehensive legal analysis of complex contracts, built on an agentic framework using AutoGen Studio.
 
 ## Overview
