@@ -1,5 +1,6 @@
 # Autogen_AI_Lawyer
-This repository is suplementarny to Linkedin instruction HOW TO MAKE YOUR AI LAWYER for contract revision
+This repository is suplementarny to Linkedin article: https://www.linkedin.com/pulse/complete-legal-opinion-made-ai-agents-autogen-rafal-baldys-rembowski-uxorf/?trackingId=0hoxarecQp6lfJFBN7QCBA%3D%3D
+
 
 Please forgive me if you find the layout of this repository a bit messy. I'm new to GitHub. I have performed several experiments using AutoGen with different Agnet setup and definistions.
 
